@@ -20,12 +20,6 @@ $ whoami
 
 ---
 
-## Projects That Matter
-
-**ISO-5** — High-performance infrastructure for next-gen systems. Built lean, built fast.
-
----
-
 ## Stack
 
 ```
