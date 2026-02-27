@@ -16,11 +16,7 @@ $ whoami
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=zeniofia&style=flat-square&color=333333)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeniofia&theme=dark&background=0d1117&stroke=333333)](https://github.com/zeniofia)
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeniofia&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ---
 
