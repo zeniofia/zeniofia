@@ -16,9 +16,11 @@ $ whoami
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeniofia&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zeniofia)
+![Profile Views](https://komarev.com/ghpvc/?username=zeniofia&style=flat-square&color=333333)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeniofia&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/zeniofia)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeniofia&theme=dark&background=0d1117&stroke=333333)](https://github.com/zeniofia)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zeniofia&theme=react-dark&bg_color=0d1117&hide_border=true)
 
 ---
 
@@ -45,5 +47,4 @@ Currently @ Claude Code. Building things that push limits.
 
 ```
 last login: $(date) from genesis block
-connection secure. operate responsibly.
 ```
